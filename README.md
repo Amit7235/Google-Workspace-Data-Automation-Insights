@@ -60,10 +60,14 @@ This will:
 ## 📊 Sample Dashboards
 Below are examples of auto-generated dashboards:
 
-- Daily Sales Trend  
+- Daily Sales Trend
+- ![Daily Sales Trend](sales_trend.png)
 - Revenue by Region  
-- Average Conversion Rate by Channel  
+- ![Revenue by Region](revenue_by_region.png)
+- Average Conversion Rate by Channel
+- ![Channel Performance](channel_performance.png)
 - Sales with Anomalies Highlighted  
+- ![Sales Anomalies](anomalies.png)
 
 ---
 
